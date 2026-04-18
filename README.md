@@ -39,6 +39,9 @@ lab3a o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peog
 
 lab3b o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peograms/blob/116e9fe930f6e7179e46a958621b27c8c529db00/3b.png
 
+lab3c o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peograms/blob/5e62f6ad00795ced117ebd09bb6d74e4820a28b2/lab3c.png
+
+
 
 
 
