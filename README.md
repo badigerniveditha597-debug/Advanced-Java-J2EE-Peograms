@@ -45,6 +45,9 @@ lab4a o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peog
 
 lab4b o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peograms/blob/8c28353ee0ffacce8de6b933959de311d0fd817e/4b.png
 
+lab4c o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peograms/blob/edfe36af0bddeef0e87df27ee1640915ab346cf9/4c.png
+
+
 
 
 
