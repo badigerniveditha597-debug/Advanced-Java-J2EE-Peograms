@@ -59,6 +59,7 @@ lab10a o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peo
 
 lab10a1 o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peograms/blob/113ad6d91216f78e0e7a3bce89e37a1cced7996c/10a1.png
 
+lab10b o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peograms/blob/9769404a9b1a9cd3720263dd4c98e6bc11f81fd9/10b.png
 
 
 
