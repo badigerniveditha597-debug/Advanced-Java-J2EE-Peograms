@@ -95,6 +95,9 @@ lab9b o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peog
 
 lab9c o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peograms/blob/5ea137c27421549d20e5682d742319f1a93b83ac/9a.png
 
+la9c1 o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peograms/blob/71104c3af4dc583dc57513a6fd85b69cc7ba528d/9c1.png
+
+
 
 
 
