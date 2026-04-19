@@ -89,6 +89,7 @@ lab8b o/p: https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peogr
 
 lab9a o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peograms/blob/92293e89c61ed85045e66c8ffbd92878b16af519/9a.png
 
+lab9b o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peograms/blob/d60f0830c395a28e94b6a2cf200354bf43480a0a/9b.png
 
 
 
