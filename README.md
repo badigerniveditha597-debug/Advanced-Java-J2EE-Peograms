@@ -77,6 +77,9 @@ lab6c o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peog
 
 lab7a1 o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peograms/blob/1b45a8968b25b34f2c50bf2d009cf8da7da779ed/7a.png
 
+lab7a o/p : https://github.com/badigerniveditha597-debug/Advanced-Java-J2EE-Peograms/blob/a20495221b6d0f5f07e662d74102766062726841/7a1.png
+
+
 
 
 
